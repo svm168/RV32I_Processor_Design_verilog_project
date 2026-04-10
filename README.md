@@ -92,6 +92,7 @@ You will need a Verilog compiler/simulator such as Icarus Verilog.
 **1. Clone the repository:**
 ```bash
 git clone https://github.com/svm168/RV32I_Processor_Design_verilog_project.git
+cd RV32I_Processor_Design_verilog_project
 ```
 
 **2. Compile the design and testbench:**
